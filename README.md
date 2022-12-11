@@ -7,17 +7,17 @@ https://github.com/jtolentino1/ReactCRUD
 
 ## Starting the Website
   
-#### /frontend
-`cd` into `frontend`
+### /frontend
+`cd` into `/frontend`
   
 `npm install` to install all dependencies
   
 `npm start` to compile and run web app
   
-#### /backend
+### /backend
 run the `main.py` file in `/backend`
   
-#### (optional)
+### (optional)
 download DB Browser SQLite and open `sql_app.db`
   
   
