@@ -1,4 +1,4 @@
-# Canada Pharmaceuticals
+# Canada Pharmaceuticals 💊👨‍⚕️
 Full-stack project built using React, MaterialUI, FastAPI, and SQLite
 
 Extends from my ReactCRUD boilerplate repository, see here:
