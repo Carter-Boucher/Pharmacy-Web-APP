@@ -15,6 +15,7 @@ https://github.com/jtolentino1/ReactCRUD
 `npm start` to compile and run web app
   
 ### /backend
+`pip install -r "requirements.txt"` in `/`
 run the `main.py` file in `/backend`
   
 ### (optional)
