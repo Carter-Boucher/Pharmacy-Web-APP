@@ -23,7 +23,7 @@ function Home() {
                 Canada Pharmaceuticals 
               </Typography>
               <Typography variant="h6" align="center" color="text.secondary" paragraph>
-                By Joshua Tolentino, Morgan Chen, and Carter Boucher
+                Built using React.js, FastAPI, SQLite, and Material UI.
               </Typography>
               <Alert severity="warning" sx={{marginBottom: 2}}>
                 You are in admin mode. Select which functionality you would like to use.
