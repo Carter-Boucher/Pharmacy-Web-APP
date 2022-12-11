@@ -13,9 +13,9 @@ https://github.com/jtolentino1/ReactCRUD
   `npm start` to compile and run web app
   
 #### /backend
-  run the `main.py` file in /backend
+  run the `main.py` file in `/backend`
   
 #### (optional)
-  download DB Browser SQLite and open sql_app.db
+  download DB Browser SQLite and open `sql_app.db`
   
   
