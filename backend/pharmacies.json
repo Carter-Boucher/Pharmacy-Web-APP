@@ -1,0 +1,25 @@
+{
+    "pharmacies":[
+        {
+            "Pharm_ID": 0,
+            "Name": "Co-op Pharmacy",
+            "City": "Calgary",
+            "State": "Alberta",
+            "Country": "Canada"
+        },
+        {
+            "Pharm_ID": 1,
+            "Name": "Rexol Pharmacy",
+            "City": "Toronto",
+            "State": "Ontario",
+            "Country": "Canada"
+        },
+        {
+            "Pharm_ID": 2,
+            "Name": "T&T Pharmacy",
+            "City": "Vancouver",
+            "State": "British Columbia",
+            "Country": "Canada"
+        }
+    ]
+ }

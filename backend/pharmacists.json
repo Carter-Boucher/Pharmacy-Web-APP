@@ -1,0 +1,109 @@
+{
+    "pharmacists":[
+        {
+            "Pharmacist_ID": 0,
+            "FirstName": "Jane",
+            "MiddleInit": "H",
+            "LastName": "Karr",
+            "Pharmacist_Pharmacy_ID": 0
+        },
+        {
+            "Pharmacist_ID": 1,
+            "FirstName": "Calla",
+            "MiddleInit": "",
+            "LastName": "Huron",
+            "Pharmacist_Pharmacy_ID": 0
+        },
+        {
+            "Pharmacist_ID": 2,
+            "FirstName": "Ron",
+            "MiddleInit": "B",
+            "LastName": "Bren",
+            "Pharmacist_Pharmacy_ID": 0
+        },
+        {
+            "Pharmacist_ID": 3,
+            "FirstName": "Xiang",
+            "MiddleInit": "J",
+            "LastName": "Ka",
+            "Pharmacist_Pharmacy_ID": 0
+        },
+        {
+            "Pharmacist_ID": 4,
+            "FirstName": "Arsh",
+            "MiddleInit": "",
+            "LastName": "Dhillon",
+            "Pharmacist_Pharmacy_ID": 0
+        },
+        {
+            "Pharmacist_ID": 5,
+            "FirstName": "Hope",
+            "MiddleInit": "",
+            "LastName": "Johnson",
+            "Pharmacist_Pharmacy_ID": 1
+        },
+        {
+            "Pharmacist_ID": 6,
+            "FirstName": "Yang",
+            "MiddleInit": "I",
+            "LastName": "Anh",
+            "Pharmacist_Pharmacy_ID": 1
+        },
+        {
+            "Pharmacist_ID": 7,
+            "FirstName": "Tran",
+            "MiddleInit": "",
+            "LastName": "Dong",
+            "Pharmacist_Pharmacy_ID": 1
+        },
+        {
+            "Pharmacist_ID": 8,
+            "FirstName": "John",
+            "MiddleInit": "A",
+            "LastName": "McGill",
+            "Pharmacist_Pharmacy_ID": 1
+        },
+        {
+            "Pharmacist_ID": 9,
+            "FirstName": "Larry",
+            "MiddleInit": "",
+            "LastName": "Pollok",
+            "Pharmacist_Pharmacy_ID": 1
+        },
+        {
+            "Pharmacist_ID": 10,
+            "FirstName": "Jack",
+            "MiddleInit": "J",
+            "LastName": "Jonah",
+            "Pharmacist_Pharmacy_ID": 2
+        },
+        {
+            "Pharmacist_ID": 11,
+            "FirstName": "Faith",
+            "MiddleInit": "",
+            "LastName": "Kams",
+            "Pharmacist_Pharmacy_ID": 2
+        },
+        {
+            "Pharmacist_ID": 12,
+            "FirstName": "Mel",
+            "MiddleInit": "O",
+            "LastName": "Lun",
+            "Pharmacist_Pharmacy_ID": 2
+        },
+        {
+            "Pharmacist_ID": 13,
+            "FirstName": "Yun",
+            "MiddleInit": "",
+            "LastName": "Tran",
+            "Pharmacist_Pharmacy_ID": 2
+        },
+        {
+            "Pharmacist_ID": 14,
+            "FirstName": "Amy",
+            "MiddleInit": "F",
+            "LastName": "Long",
+            "Pharmacist_Pharmacy_ID": 2
+        }
+    ]
+ }

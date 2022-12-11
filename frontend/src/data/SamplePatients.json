@@ -1,0 +1,74 @@
+{
+    "patients":[
+       {
+          "id":0,
+          "patientID": "123456",
+          "firstName":"John",
+          "middleInit":"A",
+          "lastName":"Doe",
+          "sex":"M",
+          "age":25,
+          "dateOfBirth":"1996-01-01",
+          "street":"123 Main St",
+          "city":"Edmonton",
+          "state/province":"AB",
+          "doctorDoctorID":1
+       },
+       {
+          "id":1,
+          "patientID": "123457",
+          "firstName":"Jane",
+          "middleInit":null,
+          "lastName":"Doe",
+          "sex":"F",
+          "age":25,
+          "dateOfBirth":"1996-01-01",
+          "street":"123 Main St",
+          "city":"Edmonton",
+          "state/province":"AB",
+          "doctorDoctorID":1
+       },
+       {
+          "id":2,
+          "patientID": "123458",
+          "firstName":"John",
+          "middleInit":"C",
+          "lastName":"Smith",
+          "sex":"M",
+          "age":25,
+          "dateOfBirth":"1996-01-01",
+          "street":"123 Main St",
+          "city":"Edmonton",
+          "state/province":"AB",
+          "doctorDoctorID":1
+       },
+       {
+          "id":3,
+          "patientID": "123459",
+          "firstName":"Jane",
+          "middleInit":"D",
+          "lastName":"Smith",
+          "sex":"F",
+          "age":25,
+          "dateOfBirth":"1996-01-01",
+          "street":"123 Main St",
+          "city":"Edmonton",
+          "state/province":"AB",
+          "doctorDoctorID":1
+       },
+       {
+          "id":4,
+          "patientID": "123460",
+          "firstName":"John",
+          "middleInit":"E",
+          "lastName":"Jones",
+          "sex":"M",
+          "age":25,
+          "dateOfBirth":"1996-01-01",
+          "street":"123 Main St",
+          "city":"Edmonton",
+          "state/province":"AB",
+          "doctorDoctorID":1
+       }
+    ]
+ }

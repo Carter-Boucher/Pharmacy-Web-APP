@@ -1,0 +1,36 @@
+{
+    "doctors":[
+       {
+          "id":1,
+          "doctorID":10,
+          "firstName":"Jon",
+          "middleInit":"A",
+          "lastName":"Snow",
+          "officeAddress":"123 Main St"
+       },
+       {
+          "id":2,
+          "doctorID":20,
+          "firstName":"Cersei",
+          "middleInit":"B",
+          "lastName":"Lannister",
+          "officeAddress":"456 Main St"
+       },
+       {
+          "id":3,
+          "doctorID":30,
+          "firstName":"Jaime",
+          "middleInit":null,
+          "lastName":"Lannister",
+          "officeAddress":"789 Main St"
+       },
+       {
+          "id":4,
+          "doctorID":40,
+          "firstName":"Arya",
+          "middleInit":"D",
+          "lastName":"Stark",
+          "officeAddress":"101 Main St"
+       }
+    ]
+ }

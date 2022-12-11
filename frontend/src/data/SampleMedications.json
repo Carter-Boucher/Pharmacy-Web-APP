@@ -1,0 +1,34 @@
+{
+    "medications":[
+        {
+            "id":0,
+            "Med_ID":1,
+            "Med_Name":"Paracetamol",
+            "Manu_Dosage":"Take 2 capsules every 4-6 hours, no more than 8 in 24 hours." 
+        },
+        {
+            "id":1,
+            "Med_ID":2,
+            "Med_Name":"Ibuprofen",
+            "Manu_Dosage":"Take 2 capsules every 4-6 hours, no more than 8 in 24 hours."
+        },
+        {
+            "id":2,
+            "Med_ID":3,
+            "Med_Name":"Imiquimod",
+            "Manu_Dosage":"Take 2 capsules every 2 hours, no more than 4 in 24 hours." 
+        },
+        {
+            "id":3,
+            "Med_ID":4,
+            "Med_Name":"Nicotrol",
+            "Manu_Dosage":"Take one capsule every 12 hours, no more than 2 in 24 hours."
+        },
+        {
+            "id":4,
+            "Med_ID":5,
+            "Med_Name":"Synthroid",
+            "Manu_Dosage":"Take two capsules every 8 hours, no more than 4 in 24 hours."
+        }
+    ]
+ }

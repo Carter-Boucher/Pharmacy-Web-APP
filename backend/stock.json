@@ -1,0 +1,109 @@
+{
+    "stock":[
+        {
+            "Stock_Key":0,
+            "Stock_ID": 1,
+            "Stock": 58,
+            "DateUntilNextShipment": "2023-02-18",
+            "Pharm_Pharm_ID": 0
+        },
+        {
+            "Stock_Key":1,
+            "Stock_ID": 2,
+            "Stock": 290,
+            "DateUntilNextShipment": "2023-01-26",
+            "Pharm_Pharm_ID": 0
+        },
+        {
+            "Stock_Key":2,
+            "Stock_ID": 3,
+            "Stock": 66,
+            "DateUntilNextShipment": "2023-02-18",
+            "Pharm_Pharm_ID": 0
+        },
+        {
+            "Stock_Key":3,
+            "Stock_ID": 4,
+            "Stock": 174,
+            "DateUntilNextShipment": "2023-03-18",
+            "Pharm_Pharm_ID": 0
+        },
+        {
+            "Stock_Key":4,
+            "Stock_ID": 5,
+            "Stock": 112,
+            "DateUntilNextShipment": "2023-01-26",
+            "Pharm_Pharm_ID": 0
+        },
+        {
+            "Stock_Key":5,
+            "Stock_ID": 1,
+            "Stock": 0,
+            "DateUntilNextShipment": "2023-03-01",
+            "Pharm_Pharm_ID": 1
+        },
+        {
+            "Stock_Key":6,
+            "Stock_ID": 2,
+            "Stock": 44,
+            "DateUntilNextShipment": "2023-02-04",
+            "Pharm_Pharm_ID": 1
+        },
+        {
+            "Stock_Key":7,
+            "Stock_ID": 3,
+            "Stock": 298,
+            "DateUntilNextShipment": "2023-02-28",
+            "Pharm_Pharm_ID": 1
+        },
+        {
+            "Stock_Key":8,
+            "Stock_ID": 4,
+            "Stock": 0,
+            "DateUntilNextShipment": "2023-03-01",
+            "Pharm_Pharm_ID": 1
+        },
+        {
+            "Stock_Key":9,
+            "Stock_ID": 5,
+            "Stock": 11,
+            "DateUntilNextShipment": "2023-01-26",
+            "Pharm_Pharm_ID": 1
+        },
+        {
+            "Stock_Key":10,
+            "Stock_ID": 1,
+            "Stock": 4,
+            "DateUntilNextShipment": "2023-02-15",
+            "Pharm_Pharm_ID": 2
+        },
+        {
+            "Stock_Key":11,
+            "Stock_ID": 2,
+            "Stock": 67,
+            "DateUntilNextShipment": "2023-01-17",
+            "Pharm_Pharm_ID": 2
+        },
+        {
+            "Stock_Key":12,
+            "Stock_ID": 3,
+            "Stock": 0,
+            "DateUntilNextShipment": "2023-03-25",
+            "Pharm_Pharm_ID": 2
+        },
+        {
+            "Stock_Key":13,
+            "Stock_ID": 4,
+            "Stock": 0,
+            "DateUntilNextShipment": "2023-01-07",
+            "Pharm_Pharm_ID": 2
+        },
+        {
+            "Stock_Key":14,
+            "Stock_ID": 5,
+            "Stock": 0,
+            "DateUntilNextShipment": "2023-03-25",
+            "Pharm_Pharm_ID": 2
+        }   
+    ]
+ }
