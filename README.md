@@ -9,7 +9,9 @@ https://github.com/jtolentino1/ReactCRUD
   
 #### /frontend
   `cd` into `frontend`
+  
   `npm install` to install all dependencies
+  
   `npm start` to compile and run web app
   
 #### /backend
