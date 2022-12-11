@@ -1,11 +1,11 @@
-# CanadaPharmaceuticals
+# Canada Pharmaceuticals
 Full-stack project built using React, MaterialUI, FastAPI, and SQLite
 
 Extends from my ReactCRUD boilerplate repository, see here:
 
 https://github.com/jtolentino1/ReactCRUD
 
-## To Start
+## Starting the Website
   
 #### /frontend
   `cd` into `frontend`
