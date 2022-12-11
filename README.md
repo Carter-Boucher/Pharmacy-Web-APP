@@ -5,17 +5,17 @@ Extends from my ReactCRUD boilerplate repository, see here:
 
 https://github.com/jtolentino1/ReactCRUD
 
-To start:
+### To Start
   
-  /frontend
+#### /frontend
   `cd` into `frontend`
   `npm install` to install all dependencies
   `npm start` to compile and run web app
   
-  /backend
+#### /backend
   run the `main.py` file in /backend
   
-  (optional)
+#### (optional)
   download DB Browser SQLite and open sql_app.db
   
   
